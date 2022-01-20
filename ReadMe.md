@@ -2,6 +2,11 @@
 
 - Use the [Data File for project](./vgsalses.csv) '.csv' to create a script that display the following. For all list of sales for the world
 
+## Requirements to Use
+- If your system does not already have PERL installed you can install it here --> [PERL](https://www.perl.org/get.html)
+- You will need to install the cpan module Term::Menus from this website to use 
+  this application --> [Term::Menus Download](https://metacpan.org/pod/Term::Menus)
+
 ## Task List to Complete:
 
 1. Top 5 Sales by **Publisher**:
