@@ -1,6 +1,6 @@
 # Kyle Gerken -- PERL Project Final
 
-- Use the vgsalses.csv file to create a script that display the following. For all list of sales for the world
+- Use the [Data File for project](./vgsalses.csv) file to create a script that display the following. For all list of sales for the world
 
 ## Task List to Complete:
 
